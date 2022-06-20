@@ -1,4 +1,3 @@
-/* ------------ youtube.com/CodeExplained ------------ */
 body{
     padding: 0;
     margin: 0;
@@ -6,14 +5,14 @@ body{
     font-family: 'Titillium Web', sans-serif;
 }
 
-/* ------------ container ------------ */
+/* Container */
 .container{
     padding:10px;
     width:380px;
     margin:0 auto;
 }
 
-/* ------------ header ------------ */
+/* Header */
 .header{
     width: 380px;
     height:200px;
@@ -48,7 +47,7 @@ body{
     font-family: 'Titillium Web', sans-serif;
 }
 
-/* ------------ content ------------ */
+/* Content */
 .content{
     width:380px;
     height: 350px;
@@ -110,7 +109,7 @@ body{
     color:#af0000;
     cursor: pointer;
 }
-/* ------------ add item ------------ */
+/* Add Item */
 .add-to-do{
     position: relative;
     width: 360px;
@@ -135,22 +134,22 @@ body{
     font-size: 20px;
     padding-left:10px;
 }
-.add-to-do input::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+.add-to-do input::-webkit-input-placeholder { 
     color: #4162f6;
     font-family: 'Titillium Web', sans-serif;
     font-size: 20px;
 }
-.add-to-do input::-moz-placeholder { /* Firefox 19+ */
+.add-to-do input::-moz-placeholder { 
     color: #4162f6;
     font-family: 'Titillium Web', sans-serif;
     font-size: 20px;
 }
-.add-to-do input:-ms-input-placeholder { /* IE 10+ */
+.add-to-do input:-ms-input-placeholder { 
     color: #4162f6;
     font-family: 'Titillium Web', sans-serif;
     font-size: 20px;
 }
-.add-to-do input:-moz-placeholder { /* Firefox 18- */
+.add-to-do input:-moz-placeholder { 
     color: #4162f6;
     font-family: 'Titillium Web', sans-serif;
     font-size: 20px;
